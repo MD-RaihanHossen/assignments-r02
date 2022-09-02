@@ -98,6 +98,7 @@ body{
 .mach-photo img{
     width: 250px;
     height: 170px;
+    border-radius: 5px;
 }
 .photo-title{
     padding: 0 8px;
